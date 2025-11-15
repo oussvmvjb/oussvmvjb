@@ -65,8 +65,8 @@ Currently looking for a **PFE internship** to grow in a professional environment
 ---
 
 ## 📫 Contact Me  
-- **Email:** your-email@example.com  
-- **LinkedIn:** [Your LinkedIn Link](#)  
+- **Email:** oussamajb24@gmail.com
+- **LinkedIn:** www.linkedin.com/in/jabri-oussama-13b108399 
 - **Portfolio:** (Soon)  
 
 ---
