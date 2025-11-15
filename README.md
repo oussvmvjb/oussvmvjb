@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm JABRI OUSSAMA</h1>
+<h3 align="center">Web & Mobile Developer | Modern Tech Enthusiast 🚀</h3>
 
-<!--
-**oussvmvjb/oussvmvjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JABRI-OUSSAMA&label=Profile%20views&color=blue&style=flat" alt="profile views"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+Passionate Web & Mobile Developer focused on building modern, scalable, and clean applications.  
+I’m always learning, building, and exploring new technologies to bring ideas to life.  
+Currently looking for a **PFE internship** to grow in a professional environment and contribute to impactful projects.
+
+---
+
+## 🛠️ Technologies & Tools  
+
+### 💻 Frontend
+- React ⚛️  
+- Next.js  
+- TailwindCSS  
+- TypeScript  
+
+### 🧩 Backend
+- Node.js  
+- Express.js  
+- NestJS  
+- Prisma ORM  
+- MongoDB / PostgreSQL  
+
+### 📱 Mobile
+- React Native  
+- Flutter (basics)
+
+### ☁️ DevOps / Tools
+- Git & GitHub  
+- Docker  
+- Firebase  
+- CI/CD (GitHub Actions)
+
+---
+
+## 📌 Current Goals  
+- Improve my skills in **Next.js, React Native, and DevOps**  
+- Build modern UI/UX projects  
+- Land a **PFE internship** in Web or Mobile development  
+
+---
+
+## 🧠 Soft Skills  
+- Problem Solving  
+- Team Collaboration  
+- Fast Learning  
+- Clean Code & Best Practices
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JABRI-OUSSAMA&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JABRI-OUSSAMA&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 📫 Contact Me  
+- **Email:** your-email@example.com  
+- **LinkedIn:** [Your LinkedIn Link](#)  
+- **Portfolio:** (Soon)  
+
+---
+
+⭐ *If you like my work, feel free to star my repositories and follow me!*
