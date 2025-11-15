@@ -20,24 +20,24 @@ Currently looking for a **PFE internship** to grow in a professional environment
 - React ⚛️  
 - Next.js  
 - TailwindCSS  
-- TypeScript  
+- TypeScript
+- Angular
 
 ### 🧩 Backend
 - Node.js  
 - Express.js  
 - NestJS  
-- Prisma ORM  
-- MongoDB / PostgreSQL  
+- SpringBoot  
 
 ### 📱 Mobile
 - React Native  
 - Flutter (basics)
+- Kotlin (java)
 
 ### ☁️ DevOps / Tools
 - Git & GitHub  
 - Docker  
 - Firebase  
-- CI/CD (GitHub Actions)
 
 ---
 
